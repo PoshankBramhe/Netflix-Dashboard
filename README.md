@@ -1,5 +1,3 @@
-# Netflix-Dashboard
-
 <h1>Netflix Dashboard</h1>
 <p>This Tableau dashboard provides a comprehensive analysis of Netflix's movies and TV shows based on various attributes such as release year, rating, duration, genre, and country of origin.</p>
 
